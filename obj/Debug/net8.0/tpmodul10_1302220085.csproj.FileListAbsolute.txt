@@ -62,3 +62,4 @@ C:\Users\myous\Documents\GitHub\tpmodul10_1302220085\tpmodul10_1302220085\obj\De
 C:\Users\myous\Documents\GitHub\tpmodul10_1302220085\tpmodul10_1302220085\obj\Debug\net8.0\tpmodul10_1302220085.pdb
 C:\Users\myous\Documents\GitHub\tpmodul10_1302220085\tpmodul10_1302220085\obj\Debug\net8.0\tpmodul10_1302220085.genruntimeconfig.cache
 C:\Users\myous\Documents\GitHub\tpmodul10_1302220085\tpmodul10_1302220085\obj\Debug\net8.0\ref\tpmodul10_1302220085.dll
+C:\Users\myous\Documents\GitHub\tpmodul10_1302220085\tpmodul10_1302220085\obj\Debug\net8.0\tpmodul10_1302220085.sourcelink.json
